@@ -7,11 +7,11 @@ About me
 
 <p align="left"> <a href="https://twitter.com/iamkevinkhaba" target="blank"><img src="https://img.shields.io/twitter/follow/iamkevinkhaba?logo=twitter&style=for-the-badge" alt="iamkevinkhaba" /></a> </p>
 
-- 🔭 I’m currently working on **SillyMarkets.io**
+- 🔭 I’m currently working on **BART Protocol**
 
 - 🌱 I’m currently learning **rust,move**
 
-- 👯 I’m looking to collaborate on **SillyMarkets.io**
+- 👯 I’m looking to collaborate on **BART Protocol**
 
 - 💬 Ask me about **react native, python**
 
